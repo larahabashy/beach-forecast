@@ -1,22 +1,14 @@
-# DSCI_574_lab3_lhabashy
+# Shoreline Forecasting Competition
 
-DSCI 574 lab3 for Lara Habashy (lhabashy)
+## Getting Started
+The material on this site is written in Jupyter notebooks and rendered using Jupyter Book. However, if you wish to run these notebooks on your local machine, you can do the following:
 
-## Submission Details
-
-Please enter details of your submission here...
-
-## Help us improve the labs
-
-The MDS program is continually looking to improve our courses, including lab questions and content. The following optional questions will not affect your grade in any way nor will they be used for anything other than program improvement:
-
-1. Approximately how many hours did you spend working or thinking about this assignment (including lab time)?
-
-#Ans:
-
-2. Were there any questions that you particularly liked or disliked?
-
-#Ans: [Questions you liked]
- 
-#Ans: [Questions you disliked]
+1. Clone the GitHub repository:
+ - `git clone https://github.com/larahabashy/geospatial-viz.git`
+2. Install the conda environment by typing the following in your terminal:
+ - `conda env create -f mds574.yaml`
+ - `conda activate `
+3. Open JupyterLab by typing the following in your terminal:
+ - `cd geospatial-viz`
+ - `jupyterlab`
 

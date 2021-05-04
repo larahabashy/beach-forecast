@@ -1,0 +1,22 @@
+# install with conda env create -f mds574.yaml
+
+name: mds574
+channels:
+  - conda-forge
+  - defaults
+  - tomasbeuzen
+  - pytorch
+dependencies:
+  - python=3.7
+  - ipykernel
+  - canvasutils
+  - pandas
+  - matplotlib
+  - plotly
+  - nbformat
+  - scikit-learn
+  - pytorch
+  - black
+  - flake8
+  - statsmodels
+  - geopandas
